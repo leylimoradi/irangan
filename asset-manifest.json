@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/irangan/static/css/main.3ab78923.chunk.css",
+    "main.css": "/irangan/static/css/main.10d07281.chunk.css",
     "main.js": "/irangan/static/js/main.466edeca.chunk.js",
     "main.js.map": "/irangan/static/js/main.466edeca.chunk.js.map",
     "runtime-main.js": "/irangan/static/js/runtime-main.6788a2e2.js",
@@ -8,16 +8,17 @@
     "static/js/2.c8c7b86a.chunk.js": "/irangan/static/js/2.c8c7b86a.chunk.js",
     "static/js/2.c8c7b86a.chunk.js.map": "/irangan/static/js/2.c8c7b86a.chunk.js.map",
     "index.html": "/irangan/index.html",
-    "precache-manifest.37bc0c58d7c227b2fcf6a5ec18252436.js": "/irangan/precache-manifest.37bc0c58d7c227b2fcf6a5ec18252436.js",
+    "precache-manifest.3bc77f4ec2d479327cc6636f71cedfc4.js": "/irangan/precache-manifest.3bc77f4ec2d479327cc6636f71cedfc4.js",
     "service-worker.js": "/irangan/service-worker.js",
-    "static/css/main.3ab78923.chunk.css.map": "/irangan/static/css/main.3ab78923.chunk.css.map",
+    "static/css/main.10d07281.chunk.css.map": "/irangan/static/css/main.10d07281.chunk.css.map",
     "static/js/2.c8c7b86a.chunk.js.LICENSE.txt": "/irangan/static/js/2.c8c7b86a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/irangan/static/media/IRANSansWeb.e43cfbc1.eot",
     "static/media/logoIrangan.2d81d1b5.svg": "/irangan/static/media/logoIrangan.2d81d1b5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6788a2e2.js",
     "static/js/2.c8c7b86a.chunk.js",
-    "static/css/main.3ab78923.chunk.css",
+    "static/css/main.10d07281.chunk.css",
     "static/js/main.466edeca.chunk.js"
   ]
 }
