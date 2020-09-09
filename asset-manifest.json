@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/irangan/static/css/main.50936df0.chunk.css",
-    "main.js": "/irangan/static/js/main.4cf59c45.chunk.js",
-    "main.js.map": "/irangan/static/js/main.4cf59c45.chunk.js.map",
+    "main.js": "/irangan/static/js/main.fb020d95.chunk.js",
+    "main.js.map": "/irangan/static/js/main.fb020d95.chunk.js.map",
     "runtime-main.js": "/irangan/static/js/runtime-main.6788a2e2.js",
     "runtime-main.js.map": "/irangan/static/js/runtime-main.6788a2e2.js.map",
     "static/js/2.cd4f1f78.chunk.js": "/irangan/static/js/2.cd4f1f78.chunk.js",
     "static/js/2.cd4f1f78.chunk.js.map": "/irangan/static/js/2.cd4f1f78.chunk.js.map",
     "index.html": "/irangan/index.html",
-    "precache-manifest.b377cbb5e40e104095e44c126bb5fa82.js": "/irangan/precache-manifest.b377cbb5e40e104095e44c126bb5fa82.js",
+    "precache-manifest.71c3129258b86bcd5c982f7786ccc727.js": "/irangan/precache-manifest.71c3129258b86bcd5c982f7786ccc727.js",
     "service-worker.js": "/irangan/service-worker.js",
     "static/css/main.50936df0.chunk.css.map": "/irangan/static/css/main.50936df0.chunk.css.map",
     "static/js/2.cd4f1f78.chunk.js.LICENSE.txt": "/irangan/static/js/2.cd4f1f78.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6788a2e2.js",
     "static/js/2.cd4f1f78.chunk.js",
     "static/css/main.50936df0.chunk.css",
-    "static/js/main.4cf59c45.chunk.js"
+    "static/js/main.fb020d95.chunk.js"
   ]
 }
