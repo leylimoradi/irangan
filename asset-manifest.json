@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/irangan/static/css/main.5bc0809e.chunk.css",
-    "main.js": "/irangan/static/js/main.96a6f9b8.chunk.js",
-    "main.js.map": "/irangan/static/js/main.96a6f9b8.chunk.js.map",
+    "main.css": "/irangan/static/css/main.4d2bbe08.chunk.css",
+    "main.js": "/irangan/static/js/main.1bf51bbd.chunk.js",
+    "main.js.map": "/irangan/static/js/main.1bf51bbd.chunk.js.map",
     "runtime-main.js": "/irangan/static/js/runtime-main.6788a2e2.js",
     "runtime-main.js.map": "/irangan/static/js/runtime-main.6788a2e2.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/irangan/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.f1f5066e.chunk.js": "/irangan/static/js/2.f1f5066e.chunk.js",
-    "static/js/2.f1f5066e.chunk.js.map": "/irangan/static/js/2.f1f5066e.chunk.js.map",
+    "static/css/2.fd5ba5f8.chunk.css": "/irangan/static/css/2.fd5ba5f8.chunk.css",
+    "static/js/2.07c7471d.chunk.js": "/irangan/static/js/2.07c7471d.chunk.js",
+    "static/js/2.07c7471d.chunk.js.map": "/irangan/static/js/2.07c7471d.chunk.js.map",
     "index.html": "/irangan/index.html",
-    "precache-manifest.0b2f139e8944ec8420c38a437d8cffe1.js": "/irangan/precache-manifest.0b2f139e8944ec8420c38a437d8cffe1.js",
+    "precache-manifest.236031d4981d599da53539ff3025157f.js": "/irangan/precache-manifest.236031d4981d599da53539ff3025157f.js",
     "service-worker.js": "/irangan/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/irangan/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.5bc0809e.chunk.css.map": "/irangan/static/css/main.5bc0809e.chunk.css.map",
-    "static/js/2.f1f5066e.chunk.js.LICENSE.txt": "/irangan/static/js/2.f1f5066e.chunk.js.LICENSE.txt",
+    "static/css/2.fd5ba5f8.chunk.css.map": "/irangan/static/css/2.fd5ba5f8.chunk.css.map",
+    "static/css/main.4d2bbe08.chunk.css.map": "/irangan/static/css/main.4d2bbe08.chunk.css.map",
+    "static/js/2.07c7471d.chunk.js.LICENSE.txt": "/irangan/static/js/2.07c7471d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/irangan/static/media/searchWhite.e12afae4.svg",
     "static/media/logoIrangan.2d81d1b5.svg": "/irangan/static/media/logoIrangan.2d81d1b5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6788a2e2.js",
-    "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.f1f5066e.chunk.js",
-    "static/css/main.5bc0809e.chunk.css",
-    "static/js/main.96a6f9b8.chunk.js"
+    "static/css/2.fd5ba5f8.chunk.css",
+    "static/js/2.07c7471d.chunk.js",
+    "static/css/main.4d2bbe08.chunk.css",
+    "static/js/main.1bf51bbd.chunk.js"
   ]
 }
