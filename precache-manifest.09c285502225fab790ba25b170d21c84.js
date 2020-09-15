@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f17ee24d26338bd457d7458d1154b1b1",
+    "revision": "0b131e1173d135b556bbee3c8efeeb7f",
     "url": "/irangan/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/irangan/static/css/2.fd5ba5f8.chunk.css"
   },
   {
-    "revision": "30b284b1474a0a9c7199",
-    "url": "/irangan/static/css/main.601e744a.chunk.css"
+    "revision": "99717efdc9de9b7a0b89",
+    "url": "/irangan/static/css/main.0dc158fc.chunk.css"
   },
   {
     "revision": "7e4e7323077b3b36514e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/irangan/static/js/2.1f955ebc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30b284b1474a0a9c7199",
-    "url": "/irangan/static/js/main.17eccb81.chunk.js"
+    "revision": "99717efdc9de9b7a0b89",
+    "url": "/irangan/static/js/main.29ee0134.chunk.js"
   },
   {
     "revision": "e636d508a9ab19a749e7",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/irangan/static/media/IRANSansWeb.e43cfbc1.eot"
   },
   {
-    "revision": "1f0824225523f9c4011fc7f2be9bfa3f",
-    "url": "/irangan/static/media/externalLink.1f082422.svg"
+    "revision": "f9d8ab7eecfb39704dc6f41c683189f5",
+    "url": "/irangan/static/media/externalLink.f9d8ab7e.svg"
   },
   {
     "revision": "2d81d1b5e13d6e98688cfa5b1fa33140",
