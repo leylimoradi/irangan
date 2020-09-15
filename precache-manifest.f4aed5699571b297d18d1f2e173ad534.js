@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b131e1173d135b556bbee3c8efeeb7f",
+    "revision": "0c3bab67bce05066ce20ad09919f84c2",
     "url": "/irangan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/irangan/static/css/2.fd5ba5f8.chunk.css"
   },
   {
-    "revision": "99717efdc9de9b7a0b89",
+    "revision": "dae1ec52eb32bfaac62c",
     "url": "/irangan/static/css/main.0dc158fc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/irangan/static/js/2.1f955ebc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99717efdc9de9b7a0b89",
-    "url": "/irangan/static/js/main.29ee0134.chunk.js"
+    "revision": "dae1ec52eb32bfaac62c",
+    "url": "/irangan/static/js/main.43884cfd.chunk.js"
   },
   {
     "revision": "e636d508a9ab19a749e7",

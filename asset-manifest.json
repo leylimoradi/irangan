@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/irangan/static/css/main.0dc158fc.chunk.css",
-    "main.js": "/irangan/static/js/main.29ee0134.chunk.js",
-    "main.js.map": "/irangan/static/js/main.29ee0134.chunk.js.map",
+    "main.js": "/irangan/static/js/main.43884cfd.chunk.js",
+    "main.js.map": "/irangan/static/js/main.43884cfd.chunk.js.map",
     "runtime-main.js": "/irangan/static/js/runtime-main.6788a2e2.js",
     "runtime-main.js.map": "/irangan/static/js/runtime-main.6788a2e2.js.map",
     "static/css/2.fd5ba5f8.chunk.css": "/irangan/static/css/2.fd5ba5f8.chunk.css",
     "static/js/2.1f955ebc.chunk.js": "/irangan/static/js/2.1f955ebc.chunk.js",
     "static/js/2.1f955ebc.chunk.js.map": "/irangan/static/js/2.1f955ebc.chunk.js.map",
     "index.html": "/irangan/index.html",
-    "precache-manifest.09c285502225fab790ba25b170d21c84.js": "/irangan/precache-manifest.09c285502225fab790ba25b170d21c84.js",
+    "precache-manifest.f4aed5699571b297d18d1f2e173ad534.js": "/irangan/precache-manifest.f4aed5699571b297d18d1f2e173ad534.js",
     "service-worker.js": "/irangan/service-worker.js",
     "static/css/2.fd5ba5f8.chunk.css.map": "/irangan/static/css/2.fd5ba5f8.chunk.css.map",
     "static/css/main.0dc158fc.chunk.css.map": "/irangan/static/css/main.0dc158fc.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.fd5ba5f8.chunk.css",
     "static/js/2.1f955ebc.chunk.js",
     "static/css/main.0dc158fc.chunk.css",
-    "static/js/main.29ee0134.chunk.js"
+    "static/js/main.43884cfd.chunk.js"
   ]
 }
