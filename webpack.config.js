@@ -5,7 +5,6 @@ const TerserJSPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 
-
 const webpack = require('webpack');
 
 module.exports = {
@@ -80,7 +79,6 @@ module.exports = {
             }
         ],
     },
-    publishConfig: { "registry": "https://npm.pkg.github.com/" },
     optimization: {
         runtimeChunk: 'single',
         moduleIds: 'hashed',
