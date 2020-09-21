@@ -3,15 +3,18 @@
   "name": "irangan",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+ "main": "dist/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "webpack --watch",
-    "start": "webpack-dev-server --open",
-    "server": "node server.js",
-    "build": "webpack"
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "webpack-dev-server --mode development",
+  "transpile": "babel src -d dist --copy-files",
+  "prepublishOnly": "npm run transpile",
+  "build": "webpack --mode production",
+  "deploy": "gh-pages -d dist",
+  "publish-demo": "npm run build && npm run deploy"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +25,7 @@
     "@babel/plugin-proposal-class-properties": "^7.10.4",
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
+    "babel-cli": "^6.26.0",
     "babel-loader": "^8.0.0-beta.1",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^4.3.0",
