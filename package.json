@@ -8,13 +8,13 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "webpack-dev-server --mode development",
-  "transpile": "babel src -d dist --copy-files",
-  "prepublishOnly": "npm run transpile",
-  "build": "webpack --mode production",
-  "deploy": "gh-pages -d dist",
-  "publish-demo": "npm run build && npm run deploy"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "server": "node server.js",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
